@@ -7,7 +7,7 @@ Turning raw data into actionable insights through visualization, modeling, and s
 ### 🌱 I’m currently learning  
 In-depth concepts in machine learning, statistical modeling, and data engineering as part of my Master’s in Data Science.
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/yash-rajubhai-prajapati) | [Email](yashpraj62@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati) | [Email](mailto:yashpraj62@gmail.com)
 
 
 <!---
