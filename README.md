@@ -1,13 +1,13 @@
-### 👋 Hi, I’m @YashPrajapati3000  
+### Hi, I’m @YashPrajapati3000  
 Master’s student in Data Science with a strong interest in data analytics and applied machine learning.
 
-### 👀 I’m interested in  
+### I’m interested in  
 Turning raw data into actionable insights through visualization, modeling, and statistical analysis.
 
-### 🌱 I’m currently learning  
+### I’m currently learning  
 In-depth concepts in machine learning, statistical modeling, and data engineering as part of my Master’s in Data Science.
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati) | [Email](mailto:yashpraj62@gmail.com)
+Reach me: [LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati) | [Email](mailto:yashpraj62@gmail.com)
 
 
 <!---
