@@ -6,7 +6,7 @@ Data Scientist & Analyst skilled in Python, R, and SQL, with experience in machi
 ### 🔍 What I Work On  
 - Machine Learning (classification, regression, clustering)  
 - Exploratory Data Analysis & Data Cleaning  
-- Visualization & Dashboarding (Tableau, Power BI)  
+- Visualization & Dashboarding (Tableau)  
 - Big Data & Cloud Analytics (PySpark, AWS)  
 - End-to-end project pipelines & model evaluation  
 
