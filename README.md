@@ -1,14 +1,36 @@
-### Hi, I’m @YashPrajapati3000  
-Master’s student in Data Science with a strong interest in data analytics and applied machine learning.
+### Hi, I'm Yash Prajapati 👋  
+Data Scientist & Analyst skilled in Python, R, and SQL, with experience in machine learning, statistical analysis, and data storytelling. I enjoy turning messy, real-world data into clear insights, predictive models, and actionable decisions.
 
-### I’m interested in  
-Turning raw data into actionable insights through visualization, modeling, and statistical analysis.
+---
 
-### I’m currently learning  
-In-depth concepts in machine learning, statistical modeling, and data engineering as part of my Master’s in Data Science.
+### 🔍 What I Work On  
+- Machine Learning (classification, regression, clustering)  
+- Exploratory Data Analysis & Data Cleaning  
+- Visualization & Dashboarding (Tableau, Power BI)  
+- Big Data & Cloud Analytics (PySpark, AWS)  
+- End-to-end project pipelines & model evaluation  
 
-Reach me: [LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati) | [Email](mailto:yashpraj62@gmail.com)
+---
 
+### 📌 Skills  
+**Languages:** Python, R, SQL  
+**ML & Analytics:** Scikit-learn, Pandas, NumPy, ggplot2, Seaborn  
+**Data Engineering:** PySpark, AWS (S3, EMR, Athena)  
+**Visualization:** Tableau, Power BI, Matplotlib  
+**Other:** Git/GitHub, Feature Engineering, Statistical Analysis  
+
+---
+
+### 📚 Currently Learning  
+Advanced ML techniques, model interpretability, and data engineering workflows.
+
+---
+
+### 📫 Connect With Me  
+[LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati)  
+[Email](mailto:yashpraj62@gmail.com)
+
+---
 
 <!---
 YashPrajapati3000/YashPrajapati3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
