@@ -1,28 +1,40 @@
-### Hi, I'm Yash Prajapati 👋  
-Data Scientist & Analyst skilled in Python, R, and SQL, with experience in machine learning, statistical analysis, and data storytelling. I enjoy turning messy, real-world data into clear insights, predictive models, and actionable decisions.
+# Hi, I'm Yash Prajapati 👋  
+### AI / ML Engineer | Python • Machine Learning • Deep Learning
+
+I design and deploy **production-ready machine learning systems** that move from raw data to measurable outcomes. My experience spans predictive modeling, NLP, time series forecasting, and cloud-deployed ML services, with a strong focus on building **end-to-end ML pipelines**.
 
 ---
 
-### 🔍 What I Work On  
-- Machine Learning (classification, regression, clustering)  
-- Exploratory Data Analysis & Data Cleaning  
-- Visualization & Dashboarding (Tableau)  
-- Big Data & Cloud Analytics (PySpark, AWS)  
-- End-to-end project pipelines & model evaluation  
+## 🔍 What I Work On
+- Machine learning & deep learning models (classification, forecasting, NLP)
+- Feature engineering, model tuning, and evaluation
+- Time series forecasting (ARIMA, SARIMA, MSTL, Fourier features)
+- NLP pipelines (TF-IDF, SVD, text preprocessing)
+- Deployed ML systems using Flask and AWS
+- Scalable data processing and reproducible workflows
 
 ---
 
-### 📌 Skills  
-**Languages:** Python, R, SQL  
-**ML & Analytics:** Scikit-learn, Pandas, NumPy, ggplot2, Seaborn  
-**Data Engineering:** PySpark, AWS (S3, EMR, Athena)  
-**Visualization:** Tableau, Power BI, Matplotlib  
-**Other:** Git/GitHub, Feature Engineering, Statistical Analysis  
+## 🧠 Tech Stack
+**Languages:** Python, SQL, R  
+**ML & AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow  
+**Data & ML Ops:** Pandas, NumPy, MLflow, PySpark  
+**Cloud & Deployment:** AWS (EC2, S3), Flask  
+**Visualization:** Tableau, Matplotlib, Streamlit  
+**Tools:** Git, GitHub
 
 ---
 
-### 📚 Currently Learning  
-Advanced ML techniques, model interpretability, and data engineering workflows.
+## 📊 Highlights
+- Built forecasting models on 3,000+ data segments (R² ≈ 0.85)
+- Developed ML classifiers achieving ~85% accuracy via tuning and feature engineering
+- Designed and deployed ML APIs for real-world applications
+
+---
+
+## 📚 Currently Exploring
+- Scalable ML systems and MLOps
+- Large language models and generative AI
 
 ---
 
