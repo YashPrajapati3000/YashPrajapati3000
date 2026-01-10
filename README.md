@@ -15,13 +15,39 @@ I design and deploy **production-ready machine learning systems** that move from
 
 ---
 
-## 🧠 Tech Stack
-**Languages:** Python, SQL, R  
-**ML & AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow  
-**Data & ML Ops:** Pandas, NumPy, MLflow, PySpark  
-**Cloud & Deployment:** AWS (EC2, S3), Flask  
-**Visualization:** Tableau, Matplotlib, Streamlit  
-**Tools:** Git, GitHub
+## 🧠 Skills
+
+**Programming & Data**  
+- Python, R, SQL, Pandas, NumPy  
+
+**Machine Learning & Deep Learning**  
+- Scikit-learn, XGBoost, TensorFlow  
+- Logistic Regression, Random Forest  
+- Classification, Regression, Clustering, Anomaly Detection  
+- Neural Network Architectures  
+- Feature Engineering, Hyperparameter Tuning  
+- GridSearchCV, Cross-Validation  
+
+**Time-Series & Forecasting**  
+- ARIMA, SARIMA, MSTL  
+- Fourier Features, CCF Analysis  
+
+**NLP & Recommender Systems**  
+- TF-IDF, SVD  
+- Text Preprocessing, Matrix Factorization  
+
+**Computer Vision**  
+- OpenCV  
+- Contour-Based Segmentation  
+
+**Visualization & Dashboards**  
+- Tableau, Matplotlib, Seaborn, Streamlit  
+
+**Deployment, Cloud & Tools**  
+- Flask, REST APIs  
+- MLflow  
+- AWS (EC2, S3, EMR)  
+- GitHub, JupyterLab  
 
 ---
 
