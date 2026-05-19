@@ -1,76 +1,29 @@
-# Hi, I'm Yash Prajapati 👋  
-### AI / ML Engineer | Python • Machine Learning • Deep Learning
+# Yashkumar Prajapati — AI/ML Engineer
 
-I design and deploy **production-ready machine learning systems** that move from raw data to measurable outcomes. My experience spans predictive modeling, NLP, time series forecasting, and cloud-deployed ML services, with a strong focus on building **end-to-end ML pipelines**.
+Python · LangChain · AWS · MLflow · Scikit-learn
 
----
+Building production ML pipelines at **Amplitude** (SF) — churn prediction, behavioral segmentation, and LLM-powered event classification on 5M+ daily events. Previously at **Mixpanel** and **Zoho Corporation**.
 
-## 🔍 What I Work On
-- Machine learning & deep learning models (classification, forecasting, NLP)
-- Feature engineering, model tuning, and evaluation
-- Time series forecasting (ARIMA, SARIMA, MSTL, Fourier features)
-- NLP pipelines (TF-IDF, SVD, text preprocessing)
-- Deployed ML systems using Flask and AWS
-- Scalable data processing and reproducible workflows
+📍 Chicago, IL &nbsp;|&nbsp; 🌐 [yashprajapati.online](https://yashprajapati.online) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati) &nbsp;|&nbsp; 📄 [Resume](https://yashprajapati.online/resume.pdf)
 
 ---
 
-## 🧠 Skills
+## Projects
 
-**Programming & Data**  
-- Python, R, SQL, Pandas, NumPy  
+**[Energy Load Forecasting](https://github.com/YashPrajapati3000/Energy_Load_Forecasting_10min_Frequency)** &nbsp;·&nbsp; `MSTL` `ARIMA/SARIMA` `Python`
+Multi-component time series pipeline · 18% reduction in short-term prediction error
 
-**Machine Learning & Deep Learning**  
-- Scikit-learn, XGBoost, TensorFlow  
-- Logistic Regression, Random Forest  
-- Classification, Regression, Clustering, Anomaly Detection  
-- Neural Network Architectures  
-- Feature Engineering, Hyperparameter Tuning  
-- GridSearchCV, Cross-Validation  
+**[Sales Analysis on AWS](https://github.com/YashPrajapati3000/Sales_Analysis_Models_Using_PySpark_on_AWS)** &nbsp;·&nbsp; `PySpark` `AWS EMR` `S3` `KMeans`
+Scalable distributed pipeline with customer segmentation on AWS
 
-**Time-Series & Forecasting**  
-- ARIMA, SARIMA, MSTL  
-- Fourier Features, CCF Analysis  
-
-**NLP & Recommender Systems**  
-- TF-IDF, SVD  
-- Text Preprocessing, Matrix Factorization  
-
-**Computer Vision**  
-- OpenCV  
-- Contour-Based Segmentation  
-
-**Visualization & Dashboards**  
-- Tableau, Matplotlib, Seaborn, Streamlit  
-
-**Deployment, Cloud & Tools**  
-- Flask, REST APIs  
-- MLflow  
-- AWS (EC2, S3, EMR)  
-- GitHub, JupyterLab  
+**[Crater & Boulder Detection](https://github.com/YashPrajapati3000/Crater_and_Boulder_Detection_Image_Processing)** &nbsp;·&nbsp; `OpenCV` `Python`
+85% accuracy · 50% reduction in manual detection time
 
 ---
 
-## 📊 Highlights
-- Built forecasting models on 3,000+ data segments (R² ≈ 0.85)
-- Developed ML classifiers achieving ~85% accuracy via tuning and feature engineering
-- Designed and deployed ML APIs for real-world applications
+## Stack
+`Python` `SQL` `LangChain` `Scikit-learn` `MLflow` `AWS` `Docker` `Flask` `Pandas`
 
 ---
 
-## 📚 Currently Exploring
-- Scalable ML systems and MLOps
-- Large language models and generative AI
-
----
-
-### 📫 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/yash-rajubhai-prajapati)  
-[Email](mailto:yashpraj62@gmail.com)
-
----
-
-<!---
-YashPrajapati3000/YashPrajapati3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Open to AI/ML Engineer roles. [Let's connect.](https://www.linkedin.com/in/yash-rajubhai-prajapati)*
